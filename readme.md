@@ -148,4 +148,8 @@ As part of this task, I created a comprehensive dashboard that integrates all th
 
 I have summarized major insights, highlighting significant patterns and trends discovered through my analyses.
 
+![Investment_Analysis-Task7](https://github.com/user-attachments/assets/1ae0b26e-fedd-4bca-9d93-7ef38c3c1392)
+
 ✨𝙁𝙞𝙣𝙖𝙡𝙞𝙯𝙖𝙩𝙞𝙤𝙣: I have polished the dashboard for a professional appearance and user-friendly experience.
+
+![Key_Insights-Task7](https://github.com/user-attachments/assets/a2b8ff2b-8fd0-4e8f-8217-587b93093c9a)
